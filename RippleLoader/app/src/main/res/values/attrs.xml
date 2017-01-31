@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="waveLoader">
+        <attr name="circle_stroke" format="integer"/>
+        <attr name="full_time_animation" format="integer"/>
+        <attr name="circle_color" format="color"/>
+        <attr name="circle_dim" format="integer"/>
+    </declare-styleable>
+</resources>

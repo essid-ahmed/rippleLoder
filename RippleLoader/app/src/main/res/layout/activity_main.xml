@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@android:color/white"
+    android:id="@+id/container">
+    <loder.ahmed.com.rippleloader.RippleLoader
+    android:layout_width="100dp"
+    android:layout_height="100dp"
+    app:circle_stroke="3"
+    app:circle_color="#FF0000"
+    app:circle_dim="100"
+    app:full_time_animation="1800"
+    android:layout_centerInParent="true"/>
+
+
+</RelativeLayout>
